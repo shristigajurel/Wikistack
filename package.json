@@ -1,0 +1,27 @@
+{
+  "name": "wikistack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./localhost:3000/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhalina/wikistack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhalina/wikistack/issues"
+  },
+  "homepage": "https://github.com/farhalina/wikistack#readme",
+  "dependencies": {
+    "html-template-tag": "^3.1.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
